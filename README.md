@@ -2,5 +2,5 @@
 this is my 2nd repo
 <br> try better
 <br> do hardwork
-<br> be consistent 
+<br> be consistent <br>
 author - Aslam Zafar
